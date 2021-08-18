@@ -1,0 +1,211 @@
+.list ul{
+    list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    overflow: hidden;
+    background-color:black;
+}
+.list li{
+    border: 2px solid black;
+}
+.list li a{
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    color:gray;
+    font-size: 25px;
+}
+.list li a:hover{
+    color:green;
+}
+.list li a:active{
+    background-color: white;
+    color: red;
+}
+.image{
+    height: 300px;
+    border: 1px solid grey;
+    margin: 20px;
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+
+}
+h2{
+    padding: 20px;
+    margin: 20px;
+    margin-top: 10px;
+}
+img{
+    height: 300px;
+    width: 70%;
+    margin: 25px;
+    border: 1px solid grey;
+}
+.column{
+    width: 50%;
+    margin-top: 10px;
+    float: left;
+    
+}
+.column2{
+    width: 50%;
+    margin-top: 10px;
+    float: left;
+    
+}
+.column3{
+    width: 50%;
+    margin-top: 10px;
+    float: right;
+    
+}
+.services3{
+    margin-right: 20px;
+    margin: 20px;
+}
+
+h3{
+    font-size: 25px;
+}
+p{
+    font-size: 25px;
+    color: grey;
+}
+button{
+    color: white;
+    background-color: rgb(202, 15, 15);
+    padding: 20px;
+    width: 300px;
+    border-radius: 25px;
+    font-size: 20px;
+    margin: 20px;
+}
+.register{
+   clear: both;
+}
+.back{
+    height: 300px;
+    border: 1px solid grey;
+    margin: 20px;
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    border: 1px solid grey;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.back button{
+    color: white;
+    background-color: blue;
+    padding: 20px;
+    border-radius: 25px;
+    width: 300px;
+}
+.one{
+    width: 25%;
+    float: left;
+}
+.one img{
+    height: 200px;
+    width: 250px;
+    border: 1px solid grey;
+}
+.partners{
+    margin: 10px;
+}
+.newsletter{
+    clear: both;
+}
+.join{
+    text-align: center;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 20px;
+    height: 200px;
+    font-size: 30px;
+    padding: 20px;
+    margin: 45px;
+
+}
+.join button{
+    color:white;
+    background-color:rgb(202, 15, 15);
+    border-radius: 30px;
+    width: 80px;
+    font-size: 20px;
+}
+.join input{
+    border-radius: 20px;
+    height: 65px;
+    border-color: rgb(202, 15, 15);
+}
+.down li a{
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.down li{
+    float: left;
+    list-style-type: none;
+}
+.column3 input{
+
+    border-radius: 20px;
+    height: 50px;
+    border-color: rgb(63, 61, 61);
+    width: 400px;
+}
+.column3 textarea{
+    border-color: rgb(63, 61, 61);
+    width: 400px;
+    border-radius: 15px;
+    border: 2px solid rgb(63, 61, 61);
+    
+}
+.services3{
+    clear: both;
+}
+.form fieldset{
+    border-radius: 20px;
+    border-color: rgb(63, 61, 61);
+    height: 600px;
+    margin: 50px;
+    box-shadow: 2px 2px;
+    width: 900px;
+    align-content: center;
+}
+.form input{
+    border-radius: 20px;
+    height: 70px;
+    border-color: rgb(63, 61, 61);
+    width: 400px;
+    margin: 20px;
+}
+.members{
+    margin: 40px;
+    clear: both;
+}
+.column3 p address{
+    font-size: 40px;
+}
+.address input{
+    width: 850px;
+}
+.form button{
+    transform: translate(50% 50%);
+    margin-right: -25%;
+    left: 25%;
+    position: absolute;
+}
+.form{
+    margin: 20px;
+}
