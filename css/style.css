@@ -116,7 +116,7 @@ button{
 .one img{
     height: 200px;
     width: 250px;
-    border:none;
+    border-style: none;
 }
 .partners{
     margin: 10px;
